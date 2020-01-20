@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\df\LV7\zad2\bin\Debug\zad2.exe.config
+C:\Users\student\Desktop\df\LV7\zad2\bin\Debug\zad2.exe
+C:\Users\student\Desktop\df\LV7\zad2\bin\Debug\zad2.pdb
+C:\Users\student\Desktop\df\LV7\zad2\obj\Debug\zad2.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\df\LV7\zad2\obj\Debug\zad2.Form1.resources
+C:\Users\student\Desktop\df\LV7\zad2\obj\Debug\zad2.Properties.Resources.resources
+C:\Users\student\Desktop\df\LV7\zad2\obj\Debug\zad2.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\df\LV7\zad2\obj\Debug\zad2.exe
+C:\Users\student\Desktop\df\LV7\zad2\obj\Debug\zad2.pdb

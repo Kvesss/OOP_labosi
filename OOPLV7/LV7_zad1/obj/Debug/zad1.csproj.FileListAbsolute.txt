@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\df\LV7\zad1\bin\Debug\zad1.exe.config
+C:\Users\student\Desktop\df\LV7\zad1\bin\Debug\zad1.exe
+C:\Users\student\Desktop\df\LV7\zad1\bin\Debug\zad1.pdb
+C:\Users\student\Desktop\df\LV7\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\df\LV7\zad1\obj\Debug\zad1.exe
+C:\Users\student\Desktop\df\LV7\zad1\obj\Debug\zad1.pdb

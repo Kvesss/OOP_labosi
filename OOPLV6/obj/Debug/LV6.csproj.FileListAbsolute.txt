@@ -1,0 +1,9 @@
+C:\Users\Student\RUAP-LV2\LV6\LV6\bin\Debug\LV6.exe.config
+C:\Users\Student\RUAP-LV2\LV6\LV6\obj\Debug\LV6.csprojResolveAssemblyReference.cache
+C:\Users\Student\RUAP-LV2\LV6\LV6\obj\Debug\LV6.Form1.resources
+C:\Users\Student\RUAP-LV2\LV6\LV6\obj\Debug\LV6.Properties.Resources.resources
+C:\Users\Student\RUAP-LV2\LV6\LV6\obj\Debug\LV6.csproj.GenerateResource.Cache
+C:\Users\Student\RUAP-LV2\LV6\LV6\bin\Debug\LV6.exe
+C:\Users\Student\RUAP-LV2\LV6\LV6\bin\Debug\LV6.pdb
+C:\Users\Student\RUAP-LV2\LV6\LV6\obj\Debug\LV6.exe
+C:\Users\Student\RUAP-LV2\LV6\LV6\obj\Debug\LV6.pdb
